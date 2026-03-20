@@ -2,6 +2,6 @@ Silly implementation of a better cli tool - https://github.com/KennethWussmann/s
 
 cargo build
 
-unpack [INPUT] [OUTPUT]
-pack [INPUT] [OUTPUT]
-edit [INPUT]
+```unpack [INPUT] [OUTPUT]```
+```pack [INPUT] [OUTPUT]```
+```edit [INPUT]```
